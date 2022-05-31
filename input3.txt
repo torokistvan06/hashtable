@@ -1,0 +1,69 @@
+11 29 41 2.500000
+160
+63
+76
+121
+73
+24
+136
+109
+73
+63
+12
+156
+14
+14
+164
+80
+137
+21
+112
+16
+46
+100
+80
+165
+150
+177
+102
+17
+193
+Keres 132
+Hozzaad 0 
+UjTelitettseg 0.721540
+Keres 115
+Keres 166
+Hozzaad 10 113 93 127 113 101 52 156 183 195 126 
+Keres 23
+Keres 67
+Ujrameretez 130
+Hozzaad 1 155 
+Rendel 14 147 19 71 20 146 34 12 15 161 171 123 25 29 12 
+Keres 191
+Ujrameretez 147
+Keres 184
+Rendel 14 51 133 97 194 35 98 88 124 181 156 191 173 172 100 
+Hozzaad 1 62 
+Hozzaad 9 170 170 46 68 186 76 92 61 105 
+Ujrameretez 45
+Hibas 0
+Keres 5
+Keres 198
+Keres 49
+Hozzaad 5 113 183 73 41 199 
+Rendel 1 7 
+Hibas 3
+Rendel 2 48 123 
+Hozzaad 4 19 198 146 19 
+Hozzaad 8 21 128 161 195 148 108 161 159 
+Keres 128
+Hozzaad 13 105 12 94 110 115 184 69 122 134 73 193 33 62 
+Ujrameretez 133
+Hibas 6
+Rendel 4 65 144 113 32 
+Hibas 3
+Keres 120
+Hibas 4
+Hozzaad 2 62 153 
+Hozzaad 6 177 123 47 76 186 166 
+Hozzaad 6 179 145 89 154 33 136 
